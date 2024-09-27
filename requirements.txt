@@ -1,0 +1,13 @@
+libtorrent
+geoip2
+argparse
+requests
+sqlite3
+telethon
+colorama
+logging
+random
+subprocess
+shutil
+getpass
+transmission-cli
