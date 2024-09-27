@@ -10,4 +10,3 @@ random
 subprocess
 shutil
 getpass
-transmission-cli
