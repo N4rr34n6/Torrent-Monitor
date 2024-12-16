@@ -61,7 +61,7 @@ Whether you're an internet researcher, a security analyst, or just interested in
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/N4rr34n6/TorrentMonitor.git
+   git clone https://github.com/N4rr34n6/Torrent-Monitor.git
    ```
 
 2. **Navigate to the directory**:
